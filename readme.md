@@ -1,5 +1,5 @@
 # Looks like the character changes direction with movement
-![Down movement](./images/downExample.png)
-![Up movement](./images/upExample.png)
-![Left movement](./images/leftExample.png)
-![Right movement](./images/rightExample.png)
+![Down movement](./img/downExample.png)
+![Up movement](./img/upExample.png)
+![Left movement](./img/leftExample.png)
+![Right movement](./img/rightExample.png)
